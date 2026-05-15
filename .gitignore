@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Machine learning model files (optional, but good practice so large files don't block uploads)
+*.pkl
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
